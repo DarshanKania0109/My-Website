@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="./style_index.css">
+</head>
+
+<body>
+
+    <h1>
+        <b>Welcome to Website!!!!!!</b>
+    </h1>
+    <br>
+    <h2><b>Please Enter Details to continue to Main Page!</b></h2>
+    <form action="./HomePage.html" method="get">
+        <label for="Name">Enter Your Full Name:</label>
+        <input type="text" id="Name" required autofocus pattern="[A-Z a-z]+" placeholder="Enter Your Name">
+        <br>
+        <label for="DOB">Date of Birth:</label>
+        <input type="date" id="DOB" required>
+        <br>
+        <label for="Gender">Select Gender:</label>
+        <select id="Gender" name="Gender" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Prefer Not To say">Prefer Not To say</option>
+        </select>
+        <br>
+        <label for="Password">Enter Correct Password:</label>
+        <input id="Password" type="password" required pattern="DarshanKania010905"
+            placeholder="Enter Password to Login">
+        <br>
+        <button>Submit</button>
+    </form>
+</body>
+
+</html>
