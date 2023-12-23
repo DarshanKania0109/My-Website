@@ -1,25 +1,42 @@
-html {
-    background-color: #0802A3;
+#Form {
+    background-color: yellow;
+    color: #150050;
+    border: 5px solid #FB2576;
+    border-radius: 20px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    margin: auto;
+    width: 400px;
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-h1 {
-    color: #F31559;
+.Submit {
+    background-color: black;
+    color: #5800FF;
+    margin: auto;
+
 }
 
-h2 {
-    color: greenyellow;
+.Reset {
+    background-color: #0C134F;
+    background-color: #F11A7B;
+    color: yellow;
+    margin: auto;
+
 }
 
-#Name,
-#DOB,
-#Gender {
-    color: red;
+.Heading {
+    color: #1D267D;
+    background-color: #FB2576;
+    text-align: center;
 }
 
-form {
-    color: yellow
+ .Body{
+    background-color: #45FFCA;
 }
-
-button {
-    background-color: greenyellow;
+body{
+    background-color: #B15EFF;
 }
