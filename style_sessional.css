@@ -1,0 +1,41 @@
+html {
+    background-color: #FF0060;
+}
+
+Body {
+    background-color: #00DFA2;
+    text-align: center;
+    text-transform: uppercase;
+    color: #F6FA70;
+    height: 150px;
+}
+
+#Maths {
+
+    border: 4.5px solid #FF8E00;
+    background-color: #711DB0;
+    color: #F6FA70;
+    font-size: 200%;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: -30px;
+}
+
+#BEE {
+    background-color: #BC7AF9;
+    border: 4.5px solid #F8FF95;
+    font-size: 200%;
+    color: #FF0060;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+#PPS {
+    background-color: #0C1E7F;
+    border: 4.5px solid #06FF00;
+    font-size: 200%;
+    color: #FF0060;
+    border-radius: 10px;
+    margin: 20px;
+    margin-right: -20px;
+}
