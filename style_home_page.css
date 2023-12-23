@@ -1,0 +1,65 @@
+body {
+    background-color: #B15EFF;
+    text-align: center;
+}
+
+.Header {
+    text-align: center;
+    background-color: #FFA33C;
+    color: black;
+    margin: auto;
+    padding: 1px;
+    border: 10px solid gold;
+    border-width: 10px;
+    width: auto;
+    border-radius: 70px 0px;
+}
+
+.cv {
+    border: 10px solid;
+    color: aquamarine;
+    text-align: center;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 20px;
+    background-color: aqua;
+    background-image: url(./Linkedin.png);
+    margin: auto;
+    margin-top: 2%;
+}
+
+.Sessional {
+    border: 8px solid red;
+    background-color: #40F8FF;
+    border-radius: 20px;
+    color: red;
+    text-align: center;
+}
+
+.Jour {
+    border: 8px solid #2B3499;
+    background-color: #ED5AB3;
+    border-radius: 20px;
+    color: red;
+    text-align: center;
+}
+
+.PPS {
+    border: 8px solid #0174BE;
+    background-color: #F4CE14;
+    border-radius: 20px;
+    color: red;
+    text-align: center;
+}
+
+footer input {
+    color: #5D12D2;
+    background-color: #45FFCA;
+}
+
+footer textarea {
+    background-color: #FFB6D9;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
